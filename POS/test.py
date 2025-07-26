@@ -139,3 +139,4 @@ with open(file_name, "w") as file:
     file.write(f"IEA*1*00000{seq_no}]\n")
 
 print("🟢🟢 Done exporting!!")
+print ("end")
